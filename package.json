@@ -1,0 +1,13 @@
+{
+    "description": "Transformation from the OPC-UA Information Model XML format to RDF",
+    "name": "opcua2rdf",
+    "version": "0.0.1",
+    "keywords": [
+        "opcua",
+        "rdf"
+    ],
+    "dependencies": {
+        "cheerio": "1.0.0-rc.9"
+    },
+    "main": "opcua2rdf.js"
+}
